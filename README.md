@@ -6,6 +6,8 @@ First, run the devqelopment server:
 
 ```bash
 npm run dev
+
+2
 # or
 yarn dev
 # or
